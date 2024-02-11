@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate_MarkupCompile.cache
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate_MarkupCompile.lref
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate.exe
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate.pdb
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\bin\Debug\DisplayDate.exe.config
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\bin\Debug\DisplayDate.exe
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\bin\Debug\DisplayDate.pdb
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate.g.resources
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate.Properties.Resources.resources
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\תכנות שנה ב\C#\שיעור רביעי וחמישי-שיעורי גיט\homework\DisplayDate\DisplayDate\obj\Debug\DisplayDate.csproj.CoreCompileInputs.cache
