@@ -22,7 +22,7 @@ namespace DisplayDate
     {
         public MainWindow()
         {
-            int x = 5;
+            int moria = 5;
             int hadassa = 6;
             int z = 7;
             InitializeComponent();
