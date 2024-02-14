@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DisplayDate"
   ],
-  "SelectedNode": "\\DisplayDate.sln",
+  "SelectedNode": "\\DisplayDate\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
