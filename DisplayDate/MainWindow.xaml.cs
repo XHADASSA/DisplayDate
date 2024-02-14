@@ -23,6 +23,7 @@ namespace DisplayDate
         public MainWindow()
         {
             int x = 5;
+            int z = 7;
             InitializeComponent();
             //
             DateTime currentTime = DateTime.Now;
